@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCdJrU/BVBII645CZslq1C12NdGsRR4nAJ3ip8TeWbFKoDxLghqT41L8XhgS336mJVA59AiY4OwvO6tDk5m1ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asimon\\Documents\\GraphQLSharp\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asimon\\.nuget\\packages\\graphql\\7.0.2\\graphql.7.0.2.nupkg.sha512",
+    "C:\\Users\\asimon\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\asimon\\.nuget\\packages\\graphql.systemtextjson\\7.0.2\\graphql.systemtextjson.7.0.2.nupkg.sha512",
+    "C:\\Users\\asimon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\asimon\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
